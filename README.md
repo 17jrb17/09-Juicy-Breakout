@@ -1,2 +1,2 @@
 # 09-Juicy-Breakout
-juicy breakout
+I took the template for breakout and added some simple mechanics that just more add to aesthetic. I added music with a streamplayer node and some royalty free music as well as particles using a particle node that emits several gradient teal particles upwards across the screen. With the black screen this gave a more "traveling through space" vibe so I added another label that serves as a title at the top center of the screen which reads "passing through time and space" because I'm a genius (not really). Aesthetic is just as important as any other game mechanic so that was my focus for this project. Enjoy!
