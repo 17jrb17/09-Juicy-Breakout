@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Peachtea - Somewhere in the Elevator.ogg-6f850e64687e9901d5276f8f45002d36.oggstr"
+
+[deps]
+
+source_file="res://Assets/Peachtea - Somewhere in the Elevator.ogg"
+dest_files=[ "res://.import/Peachtea - Somewhere in the Elevator.ogg-6f850e64687e9901d5276f8f45002d36.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
